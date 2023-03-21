@@ -4,9 +4,9 @@ Bankist App is a banking application where you can view your account movements, 
 
 You can test features between these accounts:
 
-- username: js
-  password: 1111
-- username: jd
-  password: 2222
+- user: js
+  pin: 1111
+- user: jd
+  pin: 2222
 
 💸 Bankist App website: https://bankist-app-erenburuk.netlify.app/
